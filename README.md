@@ -16,3 +16,5 @@ manufacturing etc.
 The second american'96 is about an inbuilt dataset of american elections in 1996, which shows implementation of adaboost classifier to 
 predict to whom will the vote go. It compares default decision tree model of adaboost with svc and we find that decision tree does way 
 better with 90% accuracy compared to svc.
+
+MLDM - Stock prediction - using NLP, and Random forest, we make forecast of price trends of stock price. Feeding news headlines to our model, we can predict if the price will rise or fall
